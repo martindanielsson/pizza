@@ -1,0 +1,15 @@
+{
+    "name": "martindanielsson/pizza",
+    "description": "Fetch latest Pizza Hut Sweden lunch menu",
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Danielsson",
+            "email": "martin@d0ttcreations.se"
+        }
+    ]
+}
